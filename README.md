@@ -8,7 +8,7 @@ A pixel-perfect clone of Spotify's Web Player built with **pure HTML and CSS** â
 
 ## ðŸš€ Live Demo
 
-> _Deploy on GitHub Pages or Netlify and paste the link here._
+> ------------------------------------------
 
 ---
 
