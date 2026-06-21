@@ -2,7 +2,7 @@
 
 A pixel-perfect clone of Spotify's Web Player built with **pure HTML and CSS** — no JavaScript, no frameworks, no build tools.
 
-![Project Preview](preview.png)
+![Project Preview](Preview.png)
 
 ---
 
@@ -14,7 +14,7 @@ A pixel-perfect clone of Spotify's Web Player built with **pure HTML and CSS** �
 
 ## 💡 What Makes This Special
 
-Replicating a production-grade UI like Spotify's forces you to think in real layout systems — not just boxes and colors. This project recreates the three-panel architecture, sticky navigation, a functional-looking music player bar, and responsive behavior using only CSS fundamentals.
+Replicating a production-grade UI like Spotify's forces you to think in real layout systems — not just boxes and colors. This project recreates the three-panel architecture, sticky navigation, a functional looking music player bar, and responsive behavior using only CSS fundamentals.
 
 ---
 
@@ -128,31 +128,7 @@ Browser-default range sliders are unstyled and inconsistent. This project remove
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/spotify-clone.git
+git clone https://github.com/Yash762816/Spotify-Clone.git
 cd spotify-clone
 # Open index.html in your browser — no build step needed
 ```
-
----
-
-## 📌 Future Improvements
-
-- [ ] Add JavaScript to make the progress bar actually move during playback
-- [ ] Wire up play/pause button to toggle an audio source
-- [ ] Add hover play button overlay on cards (the green circle Spotify shows)
-- [ ] Make sidebar collapsible on smaller screens
-- [ ] Add dark/light mode toggle
-- [ ] Fill in real card titles, artist names, and playlist info
-
----
-
-## 🙋 Author
-
-**Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 📄 License
-
-MIT — use it, learn from it, build on it.
